@@ -1,0 +1,4 @@
+git commands
+gi init  // repository creation
+git commit /should be done after every change to make a check point
+git push origin master // uploads to the server
